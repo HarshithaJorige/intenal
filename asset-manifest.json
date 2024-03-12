@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intenal/static/css/main.e6c13ad2.css",
+    "main.js": "/intenal/static/js/main.79642bd0.js",
+    "static/js/453.3eb0b7e9.chunk.js": "/intenal/static/js/453.3eb0b7e9.chunk.js",
+    "index.html": "/intenal/index.html",
+    "main.e6c13ad2.css.map": "/intenal/static/css/main.e6c13ad2.css.map",
+    "main.79642bd0.js.map": "/intenal/static/js/main.79642bd0.js.map",
+    "453.3eb0b7e9.chunk.js.map": "/intenal/static/js/453.3eb0b7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79642bd0.js"
+  ]
+}
